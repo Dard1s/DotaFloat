@@ -1,0 +1,16 @@
+{
+  "window": { "x": 120, "y": 120, "w": 680, "h": 520 },
+  "theme": { "bg": "#0F0F12", "accent": "#7B61FF", "text": "#E6E6EB" },
+  "tabs": ["Legit", "Rage / Combos", "Visuals", "World", "Config"],
+  "sections": {
+    "auto_hex": { "enabled": true, "min_hp": 1200, "pred_ms": 180 },
+    "autobuy": { "enabled": true, "keep_gold": 150, "queue": ["blink","sheepstick","bkb"] },
+    "camera": { "enabled": true, "distance": 1650, "smooth": true },
+    "maphack": { "enabled": true, "reveal_wards": true, "reveal_smoke": true },
+    "combos": {
+      "invoker": { "type": "eul_cataclysm", "auto_invoke": true },
+      "sf": { "mode": "eul_raze", "use_eul": true },
+      "tinker": { "style": "laser_rocket", "auto_rearm": true }
+    }
+  }
+}

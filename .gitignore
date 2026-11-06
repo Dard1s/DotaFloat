@@ -1,0 +1,13 @@
+build/
+out/
+cmake-build-*/
+*.pdb
+*.ilk
+*.obj
+*.dll
+*.exe
+dotafloat.core
+dotafloat_loader.exe
+.vs/
+.idea/
+*.log

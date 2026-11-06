@@ -1,0 +1,7 @@
+#pragma once
+#define HORIZON_VER_MAJOR 2
+#define HORIZON_VER_MINOR 4
+#define HORIZON_VER_PATCH 11
+#define HORIZON_VER_BUILD 36131
+#define HORIZON_VER_STRING "2.4.11.36131"
+#define HORIZON_CODENAME "DotaFloat"
