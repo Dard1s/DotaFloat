@@ -4,16 +4,15 @@
 </p>
 
 <p align="center">
-  <b>A handy all-in-one toolkit for Dota 2.</b><br/>
+  <b>A handy all-in-one toolkit for Dota 2.</b>
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/OS-Windows-0078D6?logo=windows&logoColor=white" alt="Windows" />
-  <img src="https://img.shields.io/badge/C%2B%2B-23-00599C?logo=cplusplus&logoColor=white" alt="C++23" />
-  <img src="https://img.shields.io/badge/CMake-3.20%2B-064F8C?logo=cmake&logoColor=white" alt="CMake" />
+  <img src="https://img.shields.io/badge/C%2B%2B-23-00599C?logo=cplusplus&logoColor=white&style=for-the-badge" alt="C++ 23" />
+  <img src="https://img.shields.io/badge/CMake-3.20%2B-064F8C?logo=cmake&logoColor=white&style=for-the-badge" alt="CMake" />
+  <img src="https://img.shields.io/badge/Game-Dota%202-CC0000?logo=dota2&logoColor=white&style=for-the-badge" alt="Game" />
 </p>
 
----
 
 DotaFloat is a lightweight toolkit built around one simple idea: all the small things you'd normally do by hand happen quietly in the background, so you can keep your head in the match where it belongs.
 
